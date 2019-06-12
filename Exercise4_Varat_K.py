@@ -1,1 +1,5 @@
-<
+print("---Your Score---")
+print("Foundation English :", 99, "Points")
+print("General Business :", 95, "Points")
+print("Introduction to Computer Systems :", 92.5, "Points")
+print("Computer Programming :", 93, "Points")
