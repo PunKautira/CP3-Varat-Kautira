@@ -1,10 +1,6 @@
 a = 10
 b = 5
-total = a + b
-diff = a - b
-multi = a * b
-div = a/b
-print(a, "+", b, "=", total)
-print(a, "-", b, "=", diff)
-print(a, "*", b, "=", multi)
-print(a, "/", b, "=", int(div))
+print(a, "+", b, "=", a+b)
+print(a, "-", b, "=", a-b)
+print(a, "*", b, "=", a*b)
+print(a, "/", b, "=", int(a/b))
